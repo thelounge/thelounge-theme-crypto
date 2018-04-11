@@ -1,0 +1,20 @@
+{
+  "name": "thelounge-theme-crypto",
+  "version": "1.0.0",
+  "main": "package.json",
+  "thelounge": {
+    "name": "Crypto",
+    "type": "theme",
+    "css": "crypto.css"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/thelounge/thelounge-theme-crypto#readme",
+  "repository": "https://github.com/thelounge/thelounge-theme-crypto",
+  "keywords": [
+    "thelounge",
+    "thelounge-theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/thelounge/thelounge-theme-crypto/issues"
+  }
+}
