@@ -1,6 +1,7 @@
 {
   "name": "thelounge-theme-crypto",
   "version": "1.0.0",
+  "description": "Retro & high-contrast theme for The Lounge",
   "main": "package.json",
   "thelounge": {
     "name": "Crypto",
